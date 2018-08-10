@@ -4,5 +4,8 @@
 	add_executable(	RBNode RBNode.cpp	)
 	add_executable(	test test.cpp	)
 	add_executable(	TestStructures TestStructures.cpp	)
-
+	add_executable(	BinaryTree BinaryTree.h	)
+	add_executable(	BinaryTreeNode BinaryTreeNode.h	)
+	add_executable(	RBNode RBNode.h	)
+	add_executable(	TestStructures TestStructures.h	)
 
